@@ -1,3 +1,8 @@
+# Addons
+*.zip
+*.xpi
+*.jar
+
 # Logs
 logs
 *.log
