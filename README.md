@@ -8,6 +8,6 @@ Agrega el comando "/coran" para seleccionar rápidamente un versículo del corá
 
 Soporte sobre Instantbird y Thunderbird:
 
-IRC #instantbird #thunderbird
+IRC #instantbird
 
 Que la paz sea con todos ustedes.
